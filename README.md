@@ -8,8 +8,7 @@
 
 ### Connect with me:
 <a href="https://github.com/jhonsullca" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jhonsullca" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/
-JHON ANTONY SULLCA APARCO
+<a href="https://linkedin.com/in/www.linkedin.com/in/jhon-antony-s-896526328
 " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon sullca" height="30" width="40" /></a>
 
 <br>
